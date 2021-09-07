@@ -1,1 +1,3 @@
-# csci680
+# Neural Networks in Computer Vision
+
+## Notes
